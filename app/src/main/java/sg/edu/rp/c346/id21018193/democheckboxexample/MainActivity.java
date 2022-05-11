@@ -21,5 +21,8 @@ public class MainActivity extends AppCompatActivity {
         cbEnabled = findViewById(R.id.checkBoxDiscount);
         btnCheck = findViewById(R.id.buttonCheck);
         tvShow = findViewById(R.id.textView);
+
     }
+
+
 }
